@@ -5,7 +5,7 @@ import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { mockSuppliers, mockWarehouses } from '@/lib/mock-data';
-import { Phone, Mail, Building2, Package, Warehouse } from 'lucide-react';
+import { Phone, Mail, Building2, Package, Warehouse } from '@/components/icons';
 
 interface PartnerDetailExtendedProps {
   partnerId: string;

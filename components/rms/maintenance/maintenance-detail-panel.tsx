@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { X, Circle, Phone, Mail, ExternalLink } from "lucide-react";
+import { X, Circle, Phone, Mail, ExternalLink } from "@/components/icons";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";

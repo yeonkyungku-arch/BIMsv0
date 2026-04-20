@@ -11,7 +11,7 @@ import {
   ChevronRight,
   X,
   Layers,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { getOverallSnapshot } from "@/components/rms/shared/overall-state-mock";
 import { buildRmsDeepLink } from "@/components/rms/shared/overall-deeplink";

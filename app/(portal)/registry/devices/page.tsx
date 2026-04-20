@@ -45,7 +45,7 @@ import {
 } from "@/components/ui/sheet";
 import { useRBAC } from '@/contexts/rbac-context';
 import { AccessDenied } from '@/components/access-denied';
-import { Plus, Filter, X, ChevronUp, ChevronDown, ChevronRight, Monitor, FileSpreadsheet, Upload, CheckCircle2, AlertCircle, Package, Battery, Sun, Smartphone, ExternalLink } from 'lucide-react';
+import { Plus, Filter, X, ChevronUp, ChevronDown, ChevronRight, Monitor, FileSpreadsheet, Upload, CheckCircle2, AlertCircle, Package, Battery, Sun, Smartphone, ExternalLink } from '@/components/icons';
 import { cn } from '@/lib/utils';
 
 // Asset status for Registry (NOT RMS operational state)

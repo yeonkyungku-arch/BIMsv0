@@ -15,7 +15,7 @@ import {
 } from "@/contracts/rms/remote-command.contract";
 import {
   Terminal, User, MessageSquare, AlertCircle, Clock,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Status badge styling

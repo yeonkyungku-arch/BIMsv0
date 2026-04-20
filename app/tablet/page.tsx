@@ -43,7 +43,7 @@ import {
   ArrowRight,
   Phone,
   User,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { loadGoogleMapsScript } from "@/lib/google-maps-loader";
 import {

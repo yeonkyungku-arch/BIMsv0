@@ -23,7 +23,7 @@ import {
   Eye,
   EyeOff,
   TriangleAlert,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Sub-components

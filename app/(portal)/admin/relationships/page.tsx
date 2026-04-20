@@ -12,7 +12,7 @@ import {
   ArrowRight,
   BarChart3,
   ScatterChart as ScatterChartIcon,
-} from "lucide-react";
+} from "@/components/icons";
 import {
   ScatterChart,
   Scatter,

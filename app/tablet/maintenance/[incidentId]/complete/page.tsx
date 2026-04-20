@@ -10,7 +10,7 @@ import {
   Inbox,
   ExternalLink,
   Info,
-} from "lucide-react";
+} from "@/components/icons";
 import { mockWorkOrders, type WorkOrder } from "@/lib/mock-data";
 
 // ---------------------------------------------------------------------------

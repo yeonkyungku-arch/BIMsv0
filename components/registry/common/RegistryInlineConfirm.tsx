@@ -2,7 +2,7 @@
 
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Ban } from "lucide-react";
+import { Ban } from "@/components/icons";
 import { cn } from "@/lib/utils";
 
 export interface RegistryInlineConfirmProps {

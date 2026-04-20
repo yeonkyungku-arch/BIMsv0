@@ -47,7 +47,7 @@ import {
   X,
   Timer,
   ShieldAlert,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // DetailRow

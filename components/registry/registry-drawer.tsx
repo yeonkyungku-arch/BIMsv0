@@ -13,7 +13,7 @@
  */
 
 import React, { useEffect, useRef, useCallback } from "react";
-import { X, Pencil, Save } from "lucide-react";
+import { X, Pencil, Save } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";

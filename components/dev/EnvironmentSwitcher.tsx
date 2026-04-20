@@ -1,6 +1,6 @@
 "use client";
 
-import { Bug } from "lucide-react";
+import { Bug } from "@/components/icons";
 import { Badge } from "@/components/ui/badge";
 import { useDevUser } from "@/lib/rbac/devUserContext";
 

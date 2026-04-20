@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect, useCallback } from "react";
-import { Search, Download, Calendar, ExternalLink, Filter, Plus, Clock, AlertCircle, CheckCircle2, Eye, Tabs, FileText } from "lucide-react";
+import { Search, Download, Calendar, ExternalLink, Filter, Plus, Clock, AlertCircle, CheckCircle2, Eye, FileText } from "@/components/icons";
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";
 import { PageHeader } from "@/components/page-header";

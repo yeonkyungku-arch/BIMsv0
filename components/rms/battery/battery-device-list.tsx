@@ -1,6 +1,6 @@
 "use client";
 
-import { Search, Zap, WifiOff, Shield, RefreshCw, Ban, Palette, Battery } from "lucide-react";
+import { Search, Zap, WifiOff, Shield, RefreshCw, Ban, Palette, Battery } from "@/components/icons";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";

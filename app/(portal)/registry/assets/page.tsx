@@ -65,7 +65,7 @@ import {
   Battery,
   Sun,
   Smartphone,
-} from 'lucide-react';
+} from '@/components/icons';
 import { cn } from '@/lib/utils';
 
 // ─── 상수 ─────────────────────────────────────────────────────────────────────

@@ -58,7 +58,7 @@ import {
   X,
   AlertTriangle,
   Info,
-} from 'lucide-react';
+} from '@/components/icons';
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { ShieldX } from "lucide-react";
+import { ShieldX } from "@/components/icons";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";

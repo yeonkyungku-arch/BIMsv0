@@ -15,7 +15,7 @@ import {
   CalendarIcon,
   ChevronRight,
   X,
-} from "lucide-react";
+} from "@/components/icons";
 import { PageHeader } from "@/components/page-header";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";

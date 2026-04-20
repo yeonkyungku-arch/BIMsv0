@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { X, MapPin, AlertCircle, Upload, Link2, FileText, History } from "lucide-react";
+import { X, MapPin, AlertCircle, Upload, Link2, FileText, History } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";

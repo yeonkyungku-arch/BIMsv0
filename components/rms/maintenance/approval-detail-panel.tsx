@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { X, Circle, Phone, Mail, Check, RotateCcw, XCircle } from "lucide-react";
+import { X, Circle, Phone, Mail, Check, RotateCcw, XCircle } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";

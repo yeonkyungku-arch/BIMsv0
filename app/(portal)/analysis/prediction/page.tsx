@@ -32,7 +32,7 @@ import {
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
-import { Download, RefreshCw, HelpCircle, AlertTriangle, TrendingDown, Clock, Activity } from "lucide-react";
+import { Download, RefreshCw, HelpCircle, AlertTriangle, TrendingDown, Clock, Activity } from "@/components/icons";
 import { cn } from "@/lib/utils";
 
 // Mock failure prediction data

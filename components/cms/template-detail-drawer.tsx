@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { X, Eye, Pencil, Copy, Archive, Clock, AlertTriangle, Check } from "lucide-react";
+import { X, Eye, Pencil, Copy, Archive, Clock, AlertTriangle, Check } from "@/components/icons";
 
 interface Template {
   id: string;

@@ -15,7 +15,7 @@ import {
   WifiOff,
   BatteryLow,
   Bell,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";

@@ -31,7 +31,7 @@ import {
   ChevronRight,
   TriangleAlert,
   PartyPopper,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Sub-components

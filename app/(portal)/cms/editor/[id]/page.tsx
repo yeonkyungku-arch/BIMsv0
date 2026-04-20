@@ -23,7 +23,7 @@ import {
   ArrowLeft, Save, Send, Rocket, RotateCcw, Trash2, ChevronRight,
   AlertTriangle, CheckCircle2, XCircle, Layers, Eye, Settings,
   Calendar, Clock, Monitor,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Lifecycle Badge styles

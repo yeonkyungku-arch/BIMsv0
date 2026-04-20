@@ -1,6 +1,6 @@
 "use client";
 
-import { BarChart3, TrendingUp, Grid3X3, GitBranch } from "lucide-react";
+import { BarChart3, TrendingUp, Grid3X3, GitBranch } from "@/components/icons";
 import { cn } from "@/lib/utils";
 
 // ---------------------------------------------------------------------------

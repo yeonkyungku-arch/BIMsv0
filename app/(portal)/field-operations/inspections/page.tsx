@@ -20,7 +20,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Search, ClipboardCheck, AlertTriangle, Wrench } from "lucide-react";
+import { Search, ClipboardCheck, AlertTriangle, Wrench } from "@/components/icons";
 import { mockInspections, type Inspection, type InspectionType } from "@/lib/mock-data";
 
 const typeConfig: Record<InspectionType, { label: string; color: string; icon: React.ReactNode }> = {

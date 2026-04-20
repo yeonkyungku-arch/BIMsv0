@@ -12,7 +12,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter } from '@/components/ui/dialog';
-import { Search, X, ChevronUp, ChevronDown, Plus, Link2 } from 'lucide-react';
+import { Search, X, ChevronUp, ChevronDown, Plus, Link2 } from '@/components/icons';
 import { cn } from '@/lib/utils';
 import {
   mockOperationalRelationships,

@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Siren } from "lucide-react";
+import { Siren } from "@/components/icons";
 import { RBACProvider, useRBAC } from "@/contexts/rbac-context";
 import { ScopeProvider } from "@/contexts/scope-context";
 import { EmergencyProvider, useEmergency } from "@/contexts/emergency-context";

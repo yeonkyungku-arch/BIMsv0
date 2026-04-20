@@ -19,7 +19,7 @@ import {
   ChevronUp,
   ChevronDown,
   TrendingUp,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";

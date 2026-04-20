@@ -28,7 +28,7 @@ import {
   XCircle,
   ArrowUpRight,
   ClipboardList,
-} from "lucide-react";
+} from "@/components/icons";
 import type { Alert, Device, WorkOrder } from "@/lib/mock-data";
 import { mockDevices, mockWorkOrders } from "@/lib/mock-data";
 

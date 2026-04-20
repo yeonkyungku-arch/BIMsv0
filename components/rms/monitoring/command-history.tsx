@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState, useCallback } from "react";
-import { Clock, RefreshCw } from "lucide-react";
+import { Clock, RefreshCw } from "@/components/icons";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import type { RemoteCommand } from "@/contracts/rms/remote-command.contract";

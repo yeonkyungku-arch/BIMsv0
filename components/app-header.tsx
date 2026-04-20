@@ -1,6 +1,6 @@
 "use client";
 
-import { Bell, ChevronDown, Search, User, LogOut, Key, AlertTriangle, WifiOff } from "lucide-react";
+import { Bell, ChevronDown, Search, User, LogOut, Key, AlertTriangle, WifiOff } from "@/components/icons";
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { EnvironmentSwitcher } from "@/components/dev/EnvironmentSwitcher";

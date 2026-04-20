@@ -20,7 +20,7 @@ import {
   DialogDescription,
 } from "@/components/ui/dialog";
 import { cn } from "@/lib/utils";
-import { Send, Copy } from "lucide-react";
+import { Send, Copy } from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // DeleteAllDialog

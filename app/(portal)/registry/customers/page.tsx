@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { Search, Plus, ChevronUp, ChevronDown, X, Building2, MapPin, User, Phone, Mail, FileText, Trash2, AlertTriangle, Package, Truck, RotateCcw, ExternalLink } from 'lucide-react';
+import { Search, Plus, ChevronUp, ChevronDown, X, Building2, MapPin, User, Phone, Mail, FileText, Trash2, AlertTriangle, Package, Truck, RotateCcw, ExternalLink } from '@/components/icons';
 import { PageHeader } from '@/components/page-header';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';

@@ -8,7 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Label } from "@/components/ui/label";
 import { Switch } from "@/components/ui/switch";
 import { Badge } from "@/components/ui/badge";
-import { X } from "lucide-react";
+import { X } from "@/components/icons";
 
 type DisplayProfile = "EPAPER_10_2" | "EPAPER_13_3" | "EPAPER_25";
 type LayoutType = "BIS_EPAPER_SMALL" | "BIS_EPAPER_STANDARD" | "BIS_EPAPER_LARGE";

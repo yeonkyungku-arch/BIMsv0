@@ -45,7 +45,7 @@ import {
   Wrench,
   ClipboardList,
   Send,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { tabletToMonitoringId } from "@/lib/rms-device-map";
 import { POWER_TYPE_LABEL_KO } from "@/contracts/rms/device-power-type";

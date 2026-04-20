@@ -50,7 +50,7 @@ import {
   MapPin,
   AlertCircle,
   CheckCircle2,
-} from 'lucide-react';
+} from '@/components/icons';
 
 // ──────────────────────────────────────────────────────────────────
 // Type Definitions

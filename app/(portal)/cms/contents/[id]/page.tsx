@@ -8,7 +8,7 @@ import {
   FileText, Image, Video, Layout, Code, Clock, Archive, Rocket,
   Building2, Calendar, User, Tag, AlertTriangle, MapPin,
   ChevronRight, Monitor, Settings,
-} from "lucide-react";
+} from "@/components/icons";
 
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";

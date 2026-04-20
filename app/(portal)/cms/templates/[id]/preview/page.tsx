@@ -13,7 +13,7 @@ import { PageHeader } from "@/components/page-header";
 import { 
   ChevronLeft, Pencil, ZoomIn, ZoomOut, RotateCcw, Sun, Moon,
   Play, Pause, SkipForward, Monitor, Smartphone, Tablet, AlertTriangle, RefreshCw
-} from "lucide-react";
+} from "@/components/icons";
 
 type DisplayProfile = "EPAPER_10_2" | "EPAPER_13_3" | "EPAPER_25";
 type LayoutType = "Accessible" | "Standard" | "Compact";

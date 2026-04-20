@@ -16,7 +16,7 @@ import { PageHeader } from "@/components/page-header";
 import { 
   ChevronLeft, Save, Eye, RotateCcw, Layout, Settings, Monitor,
   Smartphone, Tablet, Check, X, AlertTriangle, Clock
-} from "lucide-react";
+} from "@/components/icons";
 
 type DisplayProfile = "EPAPER_10_2" | "EPAPER_13_3" | "EPAPER_25";
 type LayoutType = "Accessible" | "Standard" | "Compact";

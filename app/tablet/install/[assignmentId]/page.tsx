@@ -23,7 +23,7 @@ import {
   MapPin, Zap, Sun, Monitor, Check, X,
   Camera, Image as ImageIcon, Loader2, AlertTriangle,
   Battery, Radio, Box, Package,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { POWER_TYPE_LABEL_KO } from "@/contracts/rms/device-power-type";
 

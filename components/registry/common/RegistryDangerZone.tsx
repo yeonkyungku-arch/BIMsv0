@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { AlertTriangle, ShieldAlert, Trash2 } from "lucide-react";
+import { AlertTriangle, ShieldAlert, Trash2 } from "@/components/icons";
 import { RegistryInlineConfirm } from "./RegistryInlineConfirm";
 
 export interface RegistryDangerZoneProps {

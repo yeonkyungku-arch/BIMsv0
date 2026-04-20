@@ -23,7 +23,7 @@ import {
   AlertTriangle, Battery, Monitor, Wifi, Settings,
   Search, Building2, Filter, CheckCircle2, Radio,
   ShieldAlert, X, Plus,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ── Work type config ────────────────────────────────────────────────────────
 const WORK_TYPES = [

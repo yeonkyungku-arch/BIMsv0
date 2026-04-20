@@ -45,7 +45,7 @@ import {
   Building2,
   Tag,
   Activity,
-} from "lucide-react";
+} from "@/components/icons";
 import { POWER_TYPE_LABEL_KO } from "@/contracts/rms/device-power-type";
 import { cn } from "@/lib/utils";
 import { OverallBadge } from "@/components/rms/shared/overall-badge";

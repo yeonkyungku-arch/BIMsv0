@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react";
 import {
   Battery, Zap, Plug, ChevronRight, ArrowUpDown, Wrench, Clock, Search,
-} from "lucide-react";
+} from "@/components/icons";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";

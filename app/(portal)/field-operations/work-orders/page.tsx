@@ -25,7 +25,7 @@ import {
 import { Separator } from '@/components/ui/separator';
 import { PageHeader } from '@/components/page-header';
 import { WorkOrderDrawer } from '@/components/work-order-drawer';
-import { Clock, AlertCircle, CheckCircle, Zap, Plus, Package, ExternalLink } from 'lucide-react';
+import { Clock, AlertCircle, CheckCircle, Zap, Plus, Package, ExternalLink } from '@/components/icons';
 import { cn } from '@/lib/utils';
 import Link from 'next/link';
 

@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { TrendingUp, AlertCircle, CheckCircle, Clock } from 'lucide-react';
+import { TrendingUp, AlertCircle, CheckCircle, Clock } from '@/components/icons';
 
 // Dashboard card component
 export function DashboardCard({

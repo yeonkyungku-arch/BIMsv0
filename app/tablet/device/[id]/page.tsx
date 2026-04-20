@@ -46,7 +46,7 @@ import {
   Thermometer,
   Info,
   ExternalLink,
-} from "lucide-react";
+} from "@/components/icons";
 
 export default function DeviceDetailPage() {
   const { id } = useParams<{ id: string }>();

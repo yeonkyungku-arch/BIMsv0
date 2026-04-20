@@ -23,7 +23,7 @@ import {
   Cpu,
   ChevronDown,
   ChevronUp,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // PIN

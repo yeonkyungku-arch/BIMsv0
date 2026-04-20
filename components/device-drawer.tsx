@@ -33,7 +33,7 @@ import {
   BatteryWarning,
   ChevronRight,
   ClipboardList,
-} from "lucide-react";
+} from "@/components/icons";
 import type { Device, Alert } from "@/lib/mock-data";
 import { mockAlerts } from "@/lib/mock-data";
 

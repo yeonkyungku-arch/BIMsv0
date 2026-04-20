@@ -4,7 +4,7 @@ import React, { useState, useEffect, useCallback, useRef } from "react";
 import {
   UserPlus, UserX, ShieldCheck, FileText, ShieldOff, RotateCw,
   CheckCircle2, XCircle, AlertTriangle, ExternalLink, Layers,
-} from "lucide-react";
+} from "@/components/icons";
 import { useRBAC } from "@/contexts/rbac-context";
 import { PageHeader } from "@/components/page-header";
 import { Button } from "@/components/ui/button";

@@ -7,7 +7,7 @@ import {
   type MonitoringDeviceVM,
 } from "@/lib/rms/monitoring-v1";
 import { loadGoogleMapsScript } from "@/lib/google-maps-loader";
-import { Wrench } from "lucide-react";
+import { Wrench } from "@/components/icons";
 
 // Filter types
 type MapDeviceStateFilter = MonitoringState | "all";

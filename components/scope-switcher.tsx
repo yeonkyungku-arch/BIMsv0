@@ -11,7 +11,7 @@ import {
   Check,
   Search,
   X,
-} from "lucide-react";
+} from "@/components/icons";
 import {
   Popover,
   PopoverContent,

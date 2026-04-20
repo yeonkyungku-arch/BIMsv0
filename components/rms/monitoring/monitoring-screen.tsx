@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Monitor, Cpu, Zap, Wifi, AlertTriangle, X, ChevronRight } from "lucide-react";
+import { Monitor, Cpu, Zap, Wifi, AlertTriangle, X, ChevronRight } from "@/components/icons";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetClose } from "@/components/ui/sheet";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";

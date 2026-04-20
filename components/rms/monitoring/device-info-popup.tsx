@@ -3,7 +3,7 @@
 import { MonitoringDeviceVM } from "@/lib/rms/monitoring-v1";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { X, ChevronRight } from "lucide-react";
+import { X, ChevronRight } from "@/components/icons";
 import { MONITORING_STATE_META } from "@/lib/rms/monitoring-v1";
 
 export interface DeviceInfoPopupProps {

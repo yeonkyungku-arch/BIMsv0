@@ -10,7 +10,7 @@ import {
   DetailDrawer,
   Accordion,
 } from '@/components/bims-admin-components';
-import { Activity, AlertCircle, CheckCircle2, TrendingUp, Server, Signal } from 'lucide-react';
+import { Activity, AlertCircle, CheckCircle2, TrendingUp, Server, Signal } from '@/components/icons';
 
 export default function AdminDashboardPage() {
   const [selectedDevice, setSelectedDevice] = useState<Record<string, any> | null>(null);

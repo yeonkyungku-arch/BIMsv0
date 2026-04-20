@@ -8,7 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Badge } from "@/components/ui/badge";
-import { X, Plus, Trash2 } from "lucide-react";
+import { X, Plus, Trash2 } from "@/components/icons";
 
 type DeploymentType = "일반 배포" | "긴급 배포" | "예약 배포";
 type ScopeType = "전체" | "그룹" | "개별";

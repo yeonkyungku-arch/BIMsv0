@@ -9,7 +9,7 @@
 
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { Battery, ArrowLeft } from "lucide-react";
+import { Battery, ArrowLeft } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { useRmsDevice } from "@/contexts/rms-device-context";
 

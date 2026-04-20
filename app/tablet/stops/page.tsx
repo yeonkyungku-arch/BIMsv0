@@ -35,7 +35,7 @@ import {
   MapPin, Search, Navigation, Wrench, AlertCircle, CheckCircle2,
   Clock, Phone, Calendar, Bus, Zap, Cpu, ArrowRight, User,
   Building2, AlertTriangle, ChevronRight, Map,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 
 // ─────────────────────────────────────────────────────────────────────────────

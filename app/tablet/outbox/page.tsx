@@ -68,7 +68,7 @@ import {
   Settings2,
   Signal,
   ShieldAlert,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // OutboxPage

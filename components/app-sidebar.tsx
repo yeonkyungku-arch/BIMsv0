@@ -40,7 +40,7 @@ import {
   Warehouse,
   History,
   PackagePlus,
-} from "lucide-react";
+} from "@/components/icons";
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { useRmsDevice } from "@/contexts/rms-device-context";

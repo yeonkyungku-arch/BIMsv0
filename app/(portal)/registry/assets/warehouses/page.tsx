@@ -18,7 +18,7 @@ import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetDescription } from '
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Separator } from '@/components/ui/separator';
-import { Search, Plus, Edit, Trash2, Phone, Mail, MapPin, Warehouse, Building2, CheckCircle2, AlertTriangle, Package, Truck, ArrowRight, ArrowLeftRight, Clock, Eye } from 'lucide-react';
+import { Search, Plus, Edit, Trash2, Phone, Mail, MapPin, Warehouse, Building2, CheckCircle2, AlertTriangle, Package, Truck, ArrowRight, ArrowLeftRight, Clock, Eye } from '@/components/icons';
 import { cn } from '@/lib/utils';
 
 // ─── 상태 카드 컴포넌트 ──────────────────────────────────────────────────────

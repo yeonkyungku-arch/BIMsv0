@@ -11,7 +11,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Switch } from "@/components/ui/switch";
 import { Label } from "@/components/ui/label";
 import { Slider } from "@/components/ui/slider";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "@/components/icons";
 
 type DisplayProfile = "EPAPER_10_2" | "EPAPER_13_3" | "EPAPER_25";
 type LayoutType = "Accessible" | "Standard" | "Compact";

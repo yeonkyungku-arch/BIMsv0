@@ -18,7 +18,7 @@ import {
   AlertCircle,
   XCircle,
   Download,
-} from "lucide-react";
+} from "@/components/icons";
 
 interface OTADrawerProps {
   open: boolean;

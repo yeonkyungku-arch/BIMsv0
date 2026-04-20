@@ -2,7 +2,7 @@
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { canAccessDevTools } from "@/lib/rbac";
-import { ShieldAlert } from "lucide-react";
+import { ShieldAlert } from "@/components/icons";
 
 /**
  * Route guard for DevTools pages.

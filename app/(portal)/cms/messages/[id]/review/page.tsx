@@ -13,7 +13,7 @@ import {
   User,
   Target,
   FileText,
-} from "lucide-react";
+} from "@/components/icons";
 import { useRBAC } from "@/contexts/rbac-context";
 import { mockCMSMessages } from "@/lib/mock-data";
 import type { CMSMessage, MessageType, TargetScope } from "@/lib/mock-data";

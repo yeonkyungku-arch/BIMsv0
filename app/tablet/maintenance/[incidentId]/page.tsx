@@ -32,7 +32,7 @@ import {
   X,
   Clock,
   CircleDot,
-} from "lucide-react";
+} from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { pushOutboxItem } from "@/lib/tablet-outbox";
 import { buildIdempotencyKey } from "@/lib/tablet-install-data";

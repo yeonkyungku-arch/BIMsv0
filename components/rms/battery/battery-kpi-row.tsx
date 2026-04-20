@@ -3,7 +3,7 @@
 import { useMemo } from "react";
 import {
   Battery, AlertTriangle, WifiOff, CheckCircle, Wrench,
-} from "lucide-react";
+} from "@/components/icons";
 import { Card, CardContent } from "@/components/ui/card";
 import type { BatteryDeviceStatus } from "./battery-types";
 import { getOverallSnapshot } from "@/components/rms/shared/overall-state-mock";

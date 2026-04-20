@@ -7,7 +7,7 @@ import {
   Settings, RotateCcw, Power, Download, RefreshCw, Check,
   Thermometer, Droplets, Activity, Lock, Clock, Wrench, ExternalLink,
   Image as ImageIcon, Map,
-} from "lucide-react";
+} from "@/components/icons";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";

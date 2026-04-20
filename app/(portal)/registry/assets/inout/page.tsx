@@ -32,7 +32,7 @@ import {
   Search, Package, Truck, ArrowLeftRight, RotateCcw,
   Clock, CheckCircle2, AlertTriangle, Building2, Plus, ChevronDown, Check,
   Upload, Download, FileSpreadsheet, FileText,
-} from 'lucide-react';
+} from '@/components/icons';
 import { cn } from '@/lib/utils';
 import {
   DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger,

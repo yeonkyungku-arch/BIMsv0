@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { ChevronRight, LayoutDashboard, FileText, Database, Cog, Bell, User, Search, Menu, X } from 'lucide-react';
+import { ChevronRight, LayoutDashboard, FileText, Database, Cog, Bell, User, Search, Menu, X } from '@/components/icons';
 import Link from 'next/link';
 
 // Type definitions

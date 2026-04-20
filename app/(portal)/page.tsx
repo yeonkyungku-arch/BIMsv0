@@ -2,7 +2,7 @@
 
 import React, { useMemo, useState } from "react";
 import Link from "next/link";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight } from "@/components/icons";
 import { useRBAC } from "@/contexts/rbac-context";
 
 // ─────────────────────────────────────────────────────────────────

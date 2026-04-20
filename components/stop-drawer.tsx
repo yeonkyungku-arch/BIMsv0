@@ -18,7 +18,7 @@ import {
   AlertTriangle,
   CheckCircle2,
   ChevronRight,
-} from "lucide-react";
+} from "@/components/icons";
 import type { BusStop } from "@/lib/mock-data";
 import { mockDevices, mockAlerts } from "@/lib/mock-data";
 

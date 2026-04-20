@@ -16,7 +16,7 @@ import {
   Search, Download, Package, Wrench, Trash2, ArrowLeftRight,
   CheckCircle2, Clock, MapPin, User, Calendar, ChevronRight,
   Building2, Monitor, Battery, Sun, AlertCircle,
-} from 'lucide-react';
+} from '@/components/icons';
 import { cn } from '@/lib/utils';
 
 // ─── 작업 유형 메타 ────────────────────────────────────────────────────────────

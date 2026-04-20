@@ -9,7 +9,7 @@ import {
   ChevronUp, ChevronDown, Filter, MoreHorizontal,
   CheckCircle2, Clock, XCircle, AlertTriangle, Rocket, Archive,
   Building2, Calendar, User,
-} from "lucide-react";
+} from "@/components/icons";
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";

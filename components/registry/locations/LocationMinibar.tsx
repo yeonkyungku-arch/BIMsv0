@@ -1,6 +1,6 @@
 "use client";
 
-import { X } from "lucide-react";
+import { X } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { RegistryStatusBadge } from "@/components/registry/registry-shell";
 import type { BusStopLocation } from "@/lib/mock-data";

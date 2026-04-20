@@ -7,7 +7,7 @@ import {
   Search, RefreshCw, Eye, CheckCircle2, XCircle, Clock,
   FileText, Image, Video, Layout, Code, User, Calendar,
   Building2, ChevronUp, ChevronDown, AlertTriangle,
-} from "lucide-react";
+} from "@/components/icons";
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";

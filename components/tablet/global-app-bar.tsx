@@ -13,7 +13,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Wifi, WifiOff, Send, User, ChevronLeft, ChevronRight } from "lucide-react";
+import { Wifi, WifiOff, Send, User, ChevronLeft, ChevronRight } from "@/components/icons";
 import { OutboxMiniIndicator } from "@/components/tablet/outbox-sync-indicator";
 
 // ---------------------------------------------------------------------------

@@ -19,7 +19,7 @@ import {
   FileText,
   Clock,
   XCircle,
-} from "lucide-react";
+} from "@/components/icons";
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";

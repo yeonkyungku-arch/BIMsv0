@@ -1,6 +1,6 @@
 'use client';
 import { useState, useMemo } from 'react';
-import { Plus, Search, X, ChevronUp, ChevronDown, Layers, MapPin, CheckCircle2 } from 'lucide-react';
+import { Plus, Search, X, ChevronUp, ChevronDown, Layers, MapPin, CheckCircle2 } from '@/components/icons';
 import { useRBAC } from '@/contexts/rbac-context';
 import { PageHeader } from '@/components/page-header';
 import { Button } from '@/components/ui/button';

@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
-import { Plus, Search, RefreshCw, X, Filter, ChevronUp, ChevronDown } from "lucide-react";
+import { Plus, Search, RefreshCw, X, Filter, ChevronUp, ChevronDown } from "@/components/icons";
 import { PageHeader } from "@/components/page-header";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";

@@ -32,7 +32,7 @@ import {
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
-import { Download, RefreshCw, HelpCircle, TrendingUp, Activity, Wifi, Battery } from "lucide-react";
+import { Download, RefreshCw, HelpCircle, TrendingUp, Activity, Wifi, Battery } from "@/components/icons";
 import { cn } from "@/lib/utils";
 
 // Mock telemetry data

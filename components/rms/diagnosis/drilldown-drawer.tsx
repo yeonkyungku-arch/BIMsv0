@@ -1,6 +1,6 @@
 "use client";
 
-import { X, List, ArrowRight } from "lucide-react";
+import { X, List, ArrowRight } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import {

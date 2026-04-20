@@ -17,7 +17,7 @@ import { MaintenanceRequestDialog } from "./maintenance-request-dialog";
 import { getMockRemoteCommandProvider, MOCK_CURRENT_USER } from "@/lib/rms/remote-command";
 import { getMockMaintenanceRequestProvider } from "@/providers/rms/mock-maintenance-request.provider";
 
-import { Wrench, Clock } from "lucide-react";
+import { Wrench, Clock } from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Props

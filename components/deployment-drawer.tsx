@@ -13,7 +13,7 @@ import { cn } from "@/lib/utils";
 import {
   X, Eye, RotateCcw, Target, Calendar, Layers, CheckCircle,
   XCircle, History, AlertTriangle, FileText,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ─────────────────────────────────────────────
 // Types (shared with /cms/deployments)

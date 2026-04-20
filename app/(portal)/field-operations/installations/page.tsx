@@ -30,7 +30,7 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "@/components/ui/alert-dialog";
-import { Search, CheckCircle2, Clock, AlertTriangle, XCircle, Shield } from "lucide-react";
+import { Search, CheckCircle2, Clock, AlertTriangle, XCircle, Shield } from "@/components/icons";
 import { mockInstallations, type Installation, type InstallationStatus } from "@/lib/mock-data";
 
 const statusConfig: Record<InstallationStatus, { label: string; color: string; icon: React.ReactNode }> = {

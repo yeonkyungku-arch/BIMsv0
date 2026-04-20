@@ -13,7 +13,7 @@ import {
   AlertOctagon,
   CircleDot,
   RefreshCw,
-} from "lucide-react";
+} from "@/components/icons";
 import { koKR } from "./battery-i18n";
 
 // ---------------------------------------------------------------------------

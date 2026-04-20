@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useMemo, useCallback, useRef, useEffect } from "react";
-import { X, Search, Upload, Plus, Check, AlertTriangle } from "lucide-react";
+import { X, Search, Upload, Plus, Check, AlertTriangle } from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { mockDevices, mockFaults, mockBISGroups, mockStakeholders, getBisDeviceId, type Device, type Fault } from "@/lib/mock-data";
 import { overallHealthSeverity } from "@/lib/device-status";

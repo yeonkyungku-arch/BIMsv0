@@ -30,7 +30,7 @@ import {
   Search,
   Timer,
   Copy,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // OutboxCard

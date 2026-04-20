@@ -28,7 +28,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Search, Plus, Pencil, Trash2, MoreHorizontal } from "lucide-react";
+import { Search, Plus, Pencil, Trash2, MoreHorizontal } from "@/components/icons";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -393,7 +393,7 @@ export function RegistryFieldGrid({
 // 9. RegistryDetailPanelWrapper - Three-state detail panel (Empty / Read / Edit)
 // ============================================================================
 
-import { X, Save, Lock, LockOpen, Clock, UserCheck } from "lucide-react";
+import { X, Save, Lock, LockOpen, Clock, UserCheck } from "@/components/icons";
 import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
 
@@ -853,7 +853,7 @@ export function RegistryRowActions({
 // 10. DangerZoneSection - Bottom-of-detail destructive action area
 // ============================================================================
 
-import { AlertTriangle, ShieldAlert } from "lucide-react";
+import { AlertTriangle, ShieldAlert } from "@/components/icons";
 
 export type DeleteSemantics = "hard_delete" | "soft_delete" | "dissolve" | "unlink";
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { AlertTriangle, AlertCircle, Zap, Wifi } from "lucide-react";
+import { AlertTriangle, AlertCircle, Zap, Wifi } from "@/components/icons";
 import { formatDistanceToNow } from "date-fns";
 import { ko } from "date-fns/locale";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";

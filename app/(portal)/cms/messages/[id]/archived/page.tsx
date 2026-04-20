@@ -12,7 +12,7 @@ import {
   Archive,
   Radio,
   FileText,
-} from "lucide-react";
+} from "@/components/icons";
 import { useRBAC } from "@/contexts/rbac-context";
 import { mockCMSMessages } from "@/lib/mock-data";
 import type { MessageType, TargetScope, ApprovalHistoryEntry } from "@/lib/mock-data";

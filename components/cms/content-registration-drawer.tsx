@@ -7,7 +7,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
-import { X } from "lucide-react";
+import { X } from "@/components/icons";
 
 type ContentType = "일반 안내" | "운영 안내" | "긴급 메시지";
 type PriorityLevel = "일반" | "운영" | "긴급";

@@ -4,7 +4,7 @@ import { useState } from "react";
 import {
   Power, RefreshCw, Settings, Camera, Wrench,
   AlertTriangle, Zap, WifiOff, Loader2,
-} from "lucide-react";
+} from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Textarea } from "@/components/ui/textarea";

@@ -28,7 +28,7 @@ import {
   FlaskConical,
   RefreshCw,
   Zap,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Status badge

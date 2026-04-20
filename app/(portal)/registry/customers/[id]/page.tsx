@@ -24,7 +24,7 @@ import {
   AlertTriangle,
   Check,
   Clock,
-} from "lucide-react";
+} from "@/components/icons";
 
 import { useRBAC } from "@/contexts/rbac-context";
 import { useScope } from "@/contexts/scope-context";

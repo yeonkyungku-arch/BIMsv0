@@ -22,7 +22,7 @@ import {
   Package,
   ChevronRight,
   ExternalLink,
-} from "lucide-react";
+} from "@/components/icons";
 import type { WorkOrder, Device, Alert, Asset } from "@/lib/mock-data";
 import { mockAssets, mockAssetHistory, ASSET_STATUS_META } from "@/lib/mock-data";
 import Link from "next/link";

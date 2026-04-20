@@ -35,7 +35,7 @@ import {
   Pin,
   PinOff,
   ChevronRight,
-} from "lucide-react";
+} from "@/components/icons";
 
 // ---------------------------------------------------------------------------
 // Constants

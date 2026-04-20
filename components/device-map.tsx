@@ -2,7 +2,7 @@
 
 import React, { useEffect, useRef, useState } from "react";
 import { mockDevices } from "@/lib/mock-data";
-import { RefreshCw, AlertCircle } from "lucide-react";
+import { RefreshCw, AlertCircle } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { loadGoogleMapsScript } from "@/lib/google-maps-loader";
 
