@@ -240,7 +240,7 @@ export default function SSOTAuditPage() {
           <div className="border-2 border-yellow-500 bg-yellow-50 p-4 space-y-3 mt-3">
             <p className="font-bold text-yellow-900">⚠ MINOR ISSUE: SolarPoweredDisplay Battery Indicator</p>
             <p className="text-sm">
-              Battery bar uses inline width calculation: `style={{ width: '${batteryLevel}%' }}`. While functional, this inline style should be moved to CSS class for consistency.
+              Battery bar uses inline width calculation: <code>{'style={{ width: `${batteryLevel}%` }}'}</code>. While functional, this inline style should be moved to CSS class for consistency.
             </p>
             <p className="text-sm font-semibold">Recommendation: Use Tailwind for battery bar width representation.</p>
           </div>
