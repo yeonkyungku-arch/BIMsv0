@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";
@@ -50,7 +50,7 @@ const statusLabel = (s: string) => {
   return map[s] ?? { label: s, color: "" };
 };
 
-export default function CreateWorkOrderPage() {
+function CreateWorkOrderPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { can } = useRBAC();
@@ -778,5 +778,13 @@ export default function CreateWorkOrderPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function CreateWorkOrderPage() {
+  return (
+    <Suspense fallback={<div className="flex items-center justify-center h-full text-muted-foreground text-sm">로딩 중...</div>}>
+      <CreateWorkOrderPageContent />
+    </Suspense>
   );
 }
