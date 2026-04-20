@@ -31,7 +31,7 @@ import { AccessDenied } from '@/components/access-denied';
 import {
   Search, Package, Truck, ArrowLeftRight, RotateCcw,
   Clock, CheckCircle2, AlertTriangle, Building2, Plus, ChevronDown, Check,
-  Upload, Download, FileSpreadsheet,
+  Upload, Download, FileSpreadsheet, FileText,
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import {
