@@ -507,7 +507,7 @@ export default function RMSMonitoringPage() {
                         <TableCell>
                           <Badge
                             variant="outline"
-                            className={`text-[10px] ${statusColorMap[device.displayState] || statusColorMap.NORMAL}`}
+                            className={`text-[10px] ${stateColorMap[device.displayState] || stateColorMap["정상"]}`}
                           >
                             {statusLabelMap[device.displayState] || "불명"}
                           </Badge>
