@@ -40,7 +40,7 @@ import { DeviceDrawer } from "@/components/device-drawer";
 import { useRBAC } from "@/contexts/rbac-context";
 import { AccessDenied } from "@/components/access-denied";
 import { mockDevices, mockBusStops, Device } from "@/lib/mock-data";
-import { getBatteryStatus, getOperationalStatus } from "@/lib/device-status";
+import { getOperationalStatus } from "@/lib/device-status";
 
 // =============================================================================
 // Types
